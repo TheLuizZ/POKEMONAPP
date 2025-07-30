@@ -19,31 +19,33 @@ Async/Await para llamadas asíncronas a la API
 PokeAPI como fuente de datos
 
 ## 🗂️ Estructura del proyecto
-PokemonApp/
-├── Assets.xcassets/
-│   ├── AppIcon.appiconset/
-│   │    └── AppIcon.png
-│   └── IconPokeball.imageset/
-│        └── Componente de imagen.heic
-├── Models/
-│   └── Pokemon.swift
-├── Views/
-│   ├── DetailView/
-│   │     ├── PokemonListView.swift
-│   │     └── CardView.swift
-│   └── ListView/
-│         ├── PokemonDetailView.swift
-│         ├── StatRowView.swift
-│         └── TitlePillView.swift
-├── ViewModels/
-│   └── PokemonViewModel.swift
-├── Services/
-│   ├── PokemonService.swift
-│   └── Enums.swift
-├── Utils/
-│   ├── Color+Extensions.swift
-│   └── ImageCache.swift
-└── PokemonApp.swift
+```
+📂 PokemonApp/
+├── 📂 Assets.xcassets/
+│   ├── 📂 AppIcon.appiconset/
+│   │   └── 🖼️ AppIcon.png
+│   └── 📂 IconPokeball.imageset/
+│       └── 🖼️ Componente de imagen.heic
+├── 📂 Models/
+│   └── 📄 Pokemon.swift
+├── 📂 Views/
+│   ├── 📂 DetailView/
+│   │   ├── 📄 PokemonListView.swift
+│   │   └── 📄 CardView.swift
+│   └── 📂 ListView/
+│       ├── 📄 PokemonDetailView.swift
+│       ├── 📄 StatRowView.swift
+│       └── 📄 TitlePillView.swift
+├── 📂 ViewModels/
+│   └── 📄 PokemonViewModel.swift
+├── 📂 Services/
+│   ├── 📄 PokemonService.swift
+│   └── 📄 Enums.swift
+├── 📂 Utils/
+│   ├── 📄 Color+Extensions.swift
+│   └── 📄 ImageCache.swift
+└── 📄 PokemonApp.swift
+```
 
 ## ✅ Requisitos
 - iOS 15.0+
@@ -67,5 +69,6 @@ Peso y altura
 Descripción
 Estadísticas con barras visuales
 
-## 👨‍💻 Autor
-Luiz Martinez -  [@TheLuizz](https://github.com/TheLuizz)
+## 👨‍💻 Desarrollador
+Luiz Martinez - Github: [@TheLuizz](https://github.com/TheLuizz) |
+Linkedin: [@JoseLuisMartinez](https://www.linkedin.com/in/jose-luis-martinez-ochoa-08b0a9276/)
