@@ -44,7 +44,9 @@ PokeAPI como fuente de datos
 ├── 📂 Utils/
 │   ├── 📄 Color+Extensions.swift
 │   └── 📄 ImageCache.swift
-└── 📄 PokemonApp.swift
+├── 📄 PokemonApp.swift
+├── 📄 .gitignore
+└── 📄 README.md
 ```
 
 ## ✅ Requisitos
