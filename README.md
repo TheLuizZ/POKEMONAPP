@@ -1,13 +1,15 @@
 # POKEMONAPP
 Una App Pokédex desarrollada en Swift que muestra los 151 Pokémon de la primera generación utilizando la PokeAPI.
 
+![image_alt](https://github.com/TheLuizZ/POKEMONAPP/blob/2a0d49a37a969bac44ecda06efb2dd61c1542771/screenshots.png)
+
 ## 📋 Descripción
 Lista de los 151 Pokémon originales
 Búsqueda por nombre o ID
 Vista detallada de cada Pokémon
 Estadísticas visuales de cada Pokémon
 Información detallada (peso, altura, descripción)
-Interfaz en español
+Interfaz en español.
 
 ## 🖥️ Tecnologías utilizadas:
 Swift 5.5+
@@ -16,7 +18,7 @@ UIKit para componentes específicos
 Autolayout para una interfaz adaptable
 Arquitectura MVVM (Model-View-ViewModel)
 Async/Await para llamadas asíncronas a la API
-PokeAPI como fuente de datos
+PokeAPI como fuente de datos.
 
 ## 🗂️ Estructura del proyecto
 ```
@@ -55,10 +57,10 @@ PokeAPI como fuente de datos
 - Swift 5.5+
 
 ## 🚀 Instalación
-1. Clona el repositorio
-2. Abre el proyecto en Xcode
-3. Selecciona un simulador o dispositivo iOS
-4. Presiona ⌘+R para ejecutar la aplicación
+1. Clona el repositorio.
+2. Abre el proyecto en Xcode.
+3. Selecciona un simulador o dispositivo iOS.
+4. Presiona ⌘+R para ejecutar la aplicación.
 
 ## ⚙️ Funcionamiento
 La pantalla principal muestra una lista de los 151 Pokémon originales
@@ -69,7 +71,7 @@ Imagen oficial del Pokémon
 Tipo(s) del Pokémon
 Peso y altura
 Descripción
-Estadísticas con barras visuales
+Estadísticas con barras visuales.
 
 ## 👨‍💻 Desarrollador
 Luiz Martinez - Github: [@TheLuizz](https://github.com/TheLuizz) |
